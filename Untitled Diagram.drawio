@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="KkQRvmsAqdtbCritNfgq">
-    <mxGraphModel dx="1122" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4" value="Hoodiekun&#xa;Ebipere" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="4" value="Hoodiekun&#xa;Cid Kagenou" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="167" y="111" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Backend" style="rounded=1;arcSize=40;strokeWidth=2" parent="1" vertex="1">
@@ -66,7 +66,7 @@
             <mxPoint x="424" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-9A50GmoPuMW5EjJNELf-19" value="1,050,000.00" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="-9A50GmoPuMW5EjJNELf-19" value="1,200,000.00" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="360" y="555" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-9A50GmoPuMW5EjJNELf-26" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -83,14 +83,20 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-9A50GmoPuMW5EjJNELf-23" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Backend: 200k.&amp;nbsp; &amp;nbsp; 2 Developers&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-9A50GmoPuMW5EjJNELf-22">
+        <mxCell id="-9A50GmoPuMW5EjJNELf-23" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Backend: 350k.&amp;nbsp; &amp;nbsp; 2 Developers&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-9A50GmoPuMW5EjJNELf-22">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-9A50GmoPuMW5EjJNELf-24" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Frontend: 200k.&amp;nbsp; &amp;nbsp; 2 Developers&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-9A50GmoPuMW5EjJNELf-22">
+        <mxCell id="-9A50GmoPuMW5EjJNELf-24" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Frontend: 250k.&amp;nbsp; &amp;nbsp; 2 Developers&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-9A50GmoPuMW5EjJNELf-22">
           <mxGeometry y="60" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-9A50GmoPuMW5EjJNELf-25" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Designer: 250k.&amp;nbsp; &amp;nbsp; 1 Designer&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-9A50GmoPuMW5EjJNELf-22">
           <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9A50GmoPuMW5EjJNELf-27" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Payment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9A50GmoPuMW5EjJNELf-28" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Domain Hosting&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="650" width="510" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
